@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![A image of myself 😋](https://github.com/Wultyc/Wultyc/banner.jpg)
+![A image of myself 😋](https://github.com/Wultyc/Wultyc/blob/master/banner.jpg)
 
 Hi, I'm Jorge. I'm a portuguese developer and I'm very happy you found my profile here on github. I'm always thinking in amazing things to do with techonology.
 
