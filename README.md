@@ -8,7 +8,7 @@ Want to know more about me and my work? Nice! Visit my website [jgabriel.eu](htt
 
 Here some things I like to do
 - 💻 Developing some projects
-- 🎮 Play video games
+- 🎮 Playing video games
 - 🖨 3D printing
-- 🚗 Go drive with my family or my frinds
-- 👨‍👩‍👧‍👦 Having fun with my family and my frinds
+- 🚗 Go drive with my family or my friends
+- 👨‍👩‍👧‍👦 Having fun with my family and my friends
